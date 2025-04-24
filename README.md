@@ -1,5 +1,9 @@
 # AI-Driven 6G Network Slicing Simulation
 
+**Team Members**: K.Venkata Bharadwaj, Rama Krishna
+**Guide**: Assistant Professor (Grade-I), Department of Computer Science and Engineering, IIITDM Kurnool.
+
+##About this project:
 This project simulates a 5G/6G network slicing framework using NS-3, with a Python-based Deep Q-Network (DQN) model integrated via Pybind11 for dynamic bandwidth allocation. It models 40 User Equipments (UEs), 6 routers, and 1 server in a 50x50 m area, supporting eMBB, URLLC, and mMTC slices.
 
 ## Overview
